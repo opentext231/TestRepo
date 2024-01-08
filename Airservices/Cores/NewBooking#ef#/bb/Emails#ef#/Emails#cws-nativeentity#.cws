@@ -593,7 +593,7 @@
 		</IdentityBuildingBlock>
 		<EmailLogBuildingBlock
 			type="com.cordys.entity.buildingblocks.emaillog.EmailLogBuildingBlock"
-			typeVersion="67141489-10E3-4E57-AB65-80B9133B1AE6"
+			typeVersion="28043D00-307B-49CD-90D7-5D4A04DF5025"
 			RuntimeDocumentID="00505601-23f2-a1e7-b78b-970e9bc1274a">
 			<DocumentID>00505601-23f2-a1e7-b78d-f6133c8809be</DocumentID>
 			<Name>EmailLog</Name>
@@ -687,7 +687,7 @@
 					<CreationDate>2017-12-11T05:59:53.652</CreationDate>
 					<Notes/>
 					<ConflictLevel></ConflictLevel>
-					<DataType>Text</DataType>
+					<DataType>LongText</DataType>
 					<ExposeForReuse>false</ExposeForReuse>
 					<Expression></Expression>
 					<IsComputedProperty>false</IsComputedProperty>
@@ -703,28 +703,25 @@
 					</BuildingBlock>
 					<DisplayName/>
 					<OwnedTypeDefinition>
-						<SmallTextPropertyDefinition
-							type="com.cordys.entity.core.typesystem.primitives.text.SmallTextPropertyDefinition"
+						<LongTextPropertyDefinition
+							type="com.cordys.entity.core.typesystem.primitives.text.LongTextPropertyDefinition"
 							typeVersion="4189E3FD-7E68-423A-8289-FEFAD1EC0ED8"
-							RuntimeDocumentID="00505601-23f2-a1e7-b78d-f6133c1a09be">
-							<DocumentID>00505601-23f2-a1e7-b78d-f6133c0b09be</DocumentID>
-							<Name>Untitled Small Text Definition</Name>
-							<Description>Untitled Small Text Definition</Description>
-							<CreatedBy>siva</CreatedBy>
-							<CreationDate>2017-12-11T05:59:53.658</CreationDate>
+							RuntimeDocumentID="28DFEB6B-98A5-A1EE-AB7B-D74441CC49E2">
+							<DocumentID>4563DFD0-8C29-44AC-ADCF-60C0694255CD</DocumentID>
+							<Name>4563DFD0-8C29-44AC-ADCF-60C0694255CD</Name>
+							<Description/>
+							<CreatedBy>ouathuser1@AWP</CreatedBy>
+							<CreationDate>2024-01-08T06:30:11.043</CreationDate>
 							<Notes/>
-							<DefaultValue></DefaultValue>
-							<Length>256</Length>
-							<Pattern></Pattern>
 							<lowerBound>1</lowerBound>
 							<upperBound>1</upperBound>
 							<Type/>
-						</SmallTextPropertyDefinition>
+						</LongTextPropertyDefinition>
 					</OwnedTypeDefinition>
 					<Tooltip/>
 					<TypeDefinition>
 						<uri
-							id="00505601-23f2-a1e7-b78d-f6133c0b09be"
+							id="4563DFD0-8C29-44AC-ADCF-60C0694255CD"
 						/>
 					</TypeDefinition>
 				</Property>
@@ -738,7 +735,7 @@
 					<CreationDate>2017-12-11T05:59:53.652</CreationDate>
 					<Notes/>
 					<ConflictLevel></ConflictLevel>
-					<DataType>Text</DataType>
+					<DataType>LongText</DataType>
 					<ExposeForReuse>false</ExposeForReuse>
 					<Expression></Expression>
 					<IsComputedProperty>false</IsComputedProperty>
@@ -754,28 +751,25 @@
 					</BuildingBlock>
 					<DisplayName/>
 					<OwnedTypeDefinition>
-						<SmallTextPropertyDefinition
-							type="com.cordys.entity.core.typesystem.primitives.text.SmallTextPropertyDefinition"
+						<LongTextPropertyDefinition
+							type="com.cordys.entity.core.typesystem.primitives.text.LongTextPropertyDefinition"
 							typeVersion="4189E3FD-7E68-423A-8289-FEFAD1EC0ED8"
-							RuntimeDocumentID="00505601-23f2-a1e7-b78d-f6133bd909be">
-							<DocumentID>00505601-23f2-a1e7-b78d-f6133bca09be</DocumentID>
-							<Name>Untitled Small Text Definition</Name>
-							<Description>Untitled Small Text Definition</Description>
-							<CreatedBy>siva</CreatedBy>
-							<CreationDate>2017-12-11T05:59:53.662</CreationDate>
+							RuntimeDocumentID="28DFEB6B-98A5-A1EE-AB7B-D74441CC89E2">
+							<DocumentID>57EC7E3E-1643-4111-82E7-10A3E7FE746A</DocumentID>
+							<Name>57EC7E3E-1643-4111-82E7-10A3E7FE746A</Name>
+							<Description/>
+							<CreatedBy>ouathuser1@AWP</CreatedBy>
+							<CreationDate>2024-01-08T06:30:16.294</CreationDate>
 							<Notes/>
-							<DefaultValue></DefaultValue>
-							<Length>256</Length>
-							<Pattern></Pattern>
 							<lowerBound>1</lowerBound>
 							<upperBound>1</upperBound>
 							<Type/>
-						</SmallTextPropertyDefinition>
+						</LongTextPropertyDefinition>
 					</OwnedTypeDefinition>
 					<Tooltip/>
 					<TypeDefinition>
 						<uri
-							id="00505601-23f2-a1e7-b78d-f6133bca09be"
+							id="57EC7E3E-1643-4111-82E7-10A3E7FE746A"
 						/>
 					</TypeDefinition>
 				</Property>
@@ -917,8 +911,7 @@
 													<Notes/>
 													<DeveloperText>Sent Mail</DeveloperText>
 													<Identifier>
-														<uri
-															id="00505601-23f2-a1e7-b78d-f6133aad09be"
+														<uri	id="00505601-23f2-a1e7-b78d-f6133aad09be"
 														/>
 													</Identifier>
 												</TranslatableText>
@@ -956,8 +949,7 @@
 													<Notes/>
 													<DeveloperText>Received Unread</DeveloperText>
 													<Identifier>
-														<uri
-															id="00505601-23f2-a1e7-b78d-f6133a3009be"
+														<uri	id="00505601-23f2-a1e7-b78d-f6133a3009be"
 														/>
 													</Identifier>
 												</TranslatableText>
@@ -995,8 +987,7 @@
 													<Notes/>
 													<DeveloperText>Received Read</DeveloperText>
 													<Identifier>
-														<uri
-															id="00505601-23f2-a1e7-b78d-f61339ab89be"
+														<uri	id="00505601-23f2-a1e7-b78d-f61339ab89be"
 														/>
 													</Identifier>
 												</TranslatableText>
@@ -1064,7 +1055,7 @@
 					<CreationDate>2020-02-20T11:41:45.599</CreationDate>
 					<Notes/>
 					<ConflictLevel>None</ConflictLevel>
-					<DataType>Text</DataType>
+					<DataType>LongText</DataType>
 					<ExposeForReuse>false</ExposeForReuse>
 					<Expression></Expression>
 					<IsComputedProperty>false</IsComputedProperty>
@@ -1080,28 +1071,25 @@
 					</BuildingBlock>
 					<DisplayName/>
 					<OwnedTypeDefinition>
-						<SmallTextPropertyDefinition
-							type="com.cordys.entity.core.typesystem.primitives.text.SmallTextPropertyDefinition"
+						<LongTextPropertyDefinition
+							type="com.cordys.entity.core.typesystem.primitives.text.LongTextPropertyDefinition"
 							typeVersion="4189E3FD-7E68-423A-8289-FEFAD1EC0ED8"
-							RuntimeDocumentID="00505601-63A2-A1EA-94F5-798755E85103">
-							<DocumentID>2B856D1D-F722-3955-A852-DEA0C13EF6EA</DocumentID>
-							<Name>2B856D1D-F722-3955-A852-DEA0C13EF6EA</Name>
+							RuntimeDocumentID="28DFEB6B-98A5-A1EE-AB7B-D74441CCC9E2">
+							<DocumentID>14827519-3D4C-474B-B380-617714415482</DocumentID>
+							<Name>14827519-3D4C-474B-B380-617714415482</Name>
 							<Description/>
-							<CreatedBy>Administrator</CreatedBy>
-							<CreationDate>2020-02-20T11:41:55.833</CreationDate>
+							<CreatedBy>ouathuser1@AWP</CreatedBy>
+							<CreationDate>2024-01-08T06:30:18.685</CreationDate>
 							<Notes/>
-							<DefaultValue></DefaultValue>
-							<Length>4000</Length>
-							<Pattern></Pattern>
 							<lowerBound>1</lowerBound>
 							<upperBound>1</upperBound>
 							<Type/>
-						</SmallTextPropertyDefinition>
+						</LongTextPropertyDefinition>
 					</OwnedTypeDefinition>
 					<Tooltip/>
 					<TypeDefinition>
 						<uri
-							id="2B856D1D-F722-3955-A852-DEA0C13EF6EA"
+							id="14827519-3D4C-474B-B380-617714415482"
 						/>
 					</TypeDefinition>
 				</Property>

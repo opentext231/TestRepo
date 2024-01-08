@@ -1076,6 +1076,8 @@
 			<CreationDate>2018-04-04T09:01:36.229</CreationDate>
 			<Notes/>
 			<ActivityColor>#bcd6f1</ActivityColor>
+			<ApplicationName></ApplicationName>
+			<ApplicationNameSelection>static</ApplicationNameSelection>
 			<ClassicDebugCondition>false</ClassicDebugCondition>
 			<ClassicExecuteCondition>false</ClassicExecuteCondition>
 			<CrashRecoveryCustomized>false</CrashRecoveryCustomized>
@@ -1088,6 +1090,8 @@
 			<DynamicExecuteCondition>_none</DynamicExecuteCondition>
 			<DynamicRetryCount>none</DynamicRetryCount>
 			<DynamicRetryInterval>staticValue</DynamicRetryInterval>
+			<EnableRpa>false</EnableRpa>
+			<EnableRpaProcess>false</EnableRpaProcess>
 			<ExecuteCondition></ExecuteCondition>
 			<ExecutionOrganization></ExecutionOrganization>
 			<ExecutionUserType>currentOwner</ExecutionUserType>
@@ -1110,6 +1114,18 @@
 			<RetryIntervalFromMessage></RetryIntervalFromMessage>
 			<RetryMinutes></RetryMinutes>
 			<RetrySeconds></RetrySeconds>
+			<RpaProcessInputMessage></RpaProcessInputMessage>
+			<RpaProcessInputSelection>static</RpaProcessInputSelection>
+			<RpaProcessName></RpaProcessName>
+			<RpaProcessNameSelection>readFromApplication</RpaProcessNameSelection>
+			<RpaQueueInputMessage></RpaQueueInputMessage>
+			<RpaQueueInputSelection>static</RpaQueueInputSelection>
+			<RpaQueueName></RpaQueueName>
+			<RpaQueueNameSelection>readFromApplication</RpaQueueNameSelection>
+			<RpaRoboName></RpaRoboName>
+			<RpaRoboSelection>static</RpaRoboSelection>
+			<RpaRoboStrategy>triggerWithAnyRobo</RpaRoboStrategy>
+			<RpaType>uipath</RpaType>
 			<SoapProcessor></SoapProcessor>
 			<SoapRequestTimeOut></SoapRequestTimeOut>
 			<SoapRequestTimeOutDynamic>staticValue</SoapRequestTimeOutDynamic>
@@ -1237,6 +1253,8 @@
 			<CreationDate>2018-04-04T09:01:36.223</CreationDate>
 			<Notes/>
 			<ActivityColor>#bcd6f1</ActivityColor>
+			<ApplicationName></ApplicationName>
+			<ApplicationNameSelection>static</ApplicationNameSelection>
 			<ClassicDebugCondition>false</ClassicDebugCondition>
 			<ClassicExecuteCondition>false</ClassicExecuteCondition>
 			<CrashRecoveryCustomized>false</CrashRecoveryCustomized>
@@ -1249,6 +1267,8 @@
 			<DynamicExecuteCondition>_none</DynamicExecuteCondition>
 			<DynamicRetryCount>none</DynamicRetryCount>
 			<DynamicRetryInterval>staticValue</DynamicRetryInterval>
+			<EnableRpa>false</EnableRpa>
+			<EnableRpaProcess>false</EnableRpaProcess>
 			<ExecuteCondition></ExecuteCondition>
 			<ExecutionOrganization></ExecutionOrganization>
 			<ExecutionUserType>currentOwner</ExecutionUserType>
@@ -1271,6 +1291,18 @@
 			<RetryIntervalFromMessage></RetryIntervalFromMessage>
 			<RetryMinutes></RetryMinutes>
 			<RetrySeconds></RetrySeconds>
+			<RpaProcessInputMessage></RpaProcessInputMessage>
+			<RpaProcessInputSelection>static</RpaProcessInputSelection>
+			<RpaProcessName></RpaProcessName>
+			<RpaProcessNameSelection>readFromApplication</RpaProcessNameSelection>
+			<RpaQueueInputMessage></RpaQueueInputMessage>
+			<RpaQueueInputSelection>static</RpaQueueInputSelection>
+			<RpaQueueName></RpaQueueName>
+			<RpaQueueNameSelection>readFromApplication</RpaQueueNameSelection>
+			<RpaRoboName></RpaRoboName>
+			<RpaRoboSelection>static</RpaRoboSelection>
+			<RpaRoboStrategy>triggerWithAnyRobo</RpaRoboStrategy>
+			<RpaType>uipath</RpaType>
 			<SoapProcessor></SoapProcessor>
 			<SoapRequestTimeOut></SoapRequestTimeOut>
 			<SoapRequestTimeOutDynamic>staticValue</SoapRequestTimeOutDynamic>
@@ -1398,6 +1430,8 @@
 			<CreationDate>2018-04-04T09:01:36.227</CreationDate>
 			<Notes/>
 			<ActivityColor>#bcd6f1</ActivityColor>
+			<ApplicationName></ApplicationName>
+			<ApplicationNameSelection>static</ApplicationNameSelection>
 			<ClassicDebugCondition>false</ClassicDebugCondition>
 			<ClassicExecuteCondition>false</ClassicExecuteCondition>
 			<CrashRecoveryCustomized>false</CrashRecoveryCustomized>
@@ -1410,6 +1444,8 @@
 			<DynamicExecuteCondition>_none</DynamicExecuteCondition>
 			<DynamicRetryCount>none</DynamicRetryCount>
 			<DynamicRetryInterval>staticValue</DynamicRetryInterval>
+			<EnableRpa>false</EnableRpa>
+			<EnableRpaProcess>false</EnableRpaProcess>
 			<ExecuteCondition></ExecuteCondition>
 			<ExecutionOrganization></ExecutionOrganization>
 			<ExecutionUserType>currentOwner</ExecutionUserType>
@@ -1432,6 +1468,18 @@
 			<RetryIntervalFromMessage></RetryIntervalFromMessage>
 			<RetryMinutes></RetryMinutes>
 			<RetrySeconds></RetrySeconds>
+			<RpaProcessInputMessage></RpaProcessInputMessage>
+			<RpaProcessInputSelection>static</RpaProcessInputSelection>
+			<RpaProcessName></RpaProcessName>
+			<RpaProcessNameSelection>readFromApplication</RpaProcessNameSelection>
+			<RpaQueueInputMessage></RpaQueueInputMessage>
+			<RpaQueueInputSelection>static</RpaQueueInputSelection>
+			<RpaQueueName></RpaQueueName>
+			<RpaQueueNameSelection>readFromApplication</RpaQueueNameSelection>
+			<RpaRoboName></RpaRoboName>
+			<RpaRoboSelection>static</RpaRoboSelection>
+			<RpaRoboStrategy>triggerWithAnyRobo</RpaRoboStrategy>
+			<RpaType>uipath</RpaType>
 			<SoapProcessor></SoapProcessor>
 			<SoapRequestTimeOut></SoapRequestTimeOut>
 			<SoapRequestTimeOutDynamic>staticValue</SoapRequestTimeOutDynamic>
@@ -1559,6 +1607,8 @@
 			<CreationDate>2018-04-04T09:01:36.227</CreationDate>
 			<Notes/>
 			<ActivityColor>#bcd6f1</ActivityColor>
+			<ApplicationName></ApplicationName>
+			<ApplicationNameSelection>static</ApplicationNameSelection>
 			<ClassicDebugCondition>false</ClassicDebugCondition>
 			<ClassicExecuteCondition>false</ClassicExecuteCondition>
 			<CrashRecoveryCustomized>false</CrashRecoveryCustomized>
@@ -1571,6 +1621,8 @@
 			<DynamicExecuteCondition>_none</DynamicExecuteCondition>
 			<DynamicRetryCount>none</DynamicRetryCount>
 			<DynamicRetryInterval>staticValue</DynamicRetryInterval>
+			<EnableRpa>false</EnableRpa>
+			<EnableRpaProcess>false</EnableRpaProcess>
 			<ExecuteCondition></ExecuteCondition>
 			<ExecutionOrganization></ExecutionOrganization>
 			<ExecutionUserType>currentOwner</ExecutionUserType>
@@ -1593,6 +1645,18 @@
 			<RetryIntervalFromMessage></RetryIntervalFromMessage>
 			<RetryMinutes></RetryMinutes>
 			<RetrySeconds></RetrySeconds>
+			<RpaProcessInputMessage></RpaProcessInputMessage>
+			<RpaProcessInputSelection>static</RpaProcessInputSelection>
+			<RpaProcessName></RpaProcessName>
+			<RpaProcessNameSelection>readFromApplication</RpaProcessNameSelection>
+			<RpaQueueInputMessage></RpaQueueInputMessage>
+			<RpaQueueInputSelection>static</RpaQueueInputSelection>
+			<RpaQueueName></RpaQueueName>
+			<RpaQueueNameSelection>readFromApplication</RpaQueueNameSelection>
+			<RpaRoboName></RpaRoboName>
+			<RpaRoboSelection>static</RpaRoboSelection>
+			<RpaRoboStrategy>triggerWithAnyRobo</RpaRoboStrategy>
+			<RpaType>uipath</RpaType>
 			<SoapProcessor></SoapProcessor>
 			<SoapRequestTimeOut></SoapRequestTimeOut>
 			<SoapRequestTimeOutDynamic>staticValue</SoapRequestTimeOutDynamic>
@@ -1732,6 +1796,8 @@ New Booking</Description>
 			<CreationDate>2018-04-04T09:01:36.223</CreationDate>
 			<Notes/>
 			<ActivityColor>#bcd6f1</ActivityColor>
+			<ApplicationName></ApplicationName>
+			<ApplicationNameSelection>static</ApplicationNameSelection>
 			<ClassicDebugCondition>false</ClassicDebugCondition>
 			<ClassicExecuteCondition>false</ClassicExecuteCondition>
 			<CrashRecoveryCustomized>false</CrashRecoveryCustomized>
@@ -1744,6 +1810,8 @@ New Booking</Description>
 			<DynamicExecuteCondition>_none</DynamicExecuteCondition>
 			<DynamicRetryCount>none</DynamicRetryCount>
 			<DynamicRetryInterval>staticValue</DynamicRetryInterval>
+			<EnableRpa>false</EnableRpa>
+			<EnableRpaProcess>false</EnableRpaProcess>
 			<ExecuteCondition></ExecuteCondition>
 			<ExecutionOrganization></ExecutionOrganization>
 			<ExecutionUserType>currentOwner</ExecutionUserType>
@@ -1766,6 +1834,18 @@ New Booking</Description>
 			<RetryIntervalFromMessage></RetryIntervalFromMessage>
 			<RetryMinutes></RetryMinutes>
 			<RetrySeconds></RetrySeconds>
+			<RpaProcessInputMessage></RpaProcessInputMessage>
+			<RpaProcessInputSelection>static</RpaProcessInputSelection>
+			<RpaProcessName></RpaProcessName>
+			<RpaProcessNameSelection>readFromApplication</RpaProcessNameSelection>
+			<RpaQueueInputMessage></RpaQueueInputMessage>
+			<RpaQueueInputSelection>static</RpaQueueInputSelection>
+			<RpaQueueName></RpaQueueName>
+			<RpaQueueNameSelection>readFromApplication</RpaQueueNameSelection>
+			<RpaRoboName></RpaRoboName>
+			<RpaRoboSelection>static</RpaRoboSelection>
+			<RpaRoboStrategy>triggerWithAnyRobo</RpaRoboStrategy>
+			<RpaType>uipath</RpaType>
 			<SoapProcessor></SoapProcessor>
 			<SoapRequestTimeOut></SoapRequestTimeOut>
 			<SoapRequestTimeOutDynamic>staticValue</SoapRequestTimeOutDynamic>
@@ -2010,7 +2090,7 @@ New Booking</DeveloperText>
 		</SequenceFlow>
 		<HumanTask
 			type="com.cordys.bpm.activity.HumanTask"
-			typeVersion="D6F8B2B5-77F6-40E4-AD91-6A597F4DDDB1 ru3229e8-6598-4208-9804-a6e623c0qyte"
+			typeVersion="6B242BAC-2CF5-4676-8CF4-9176288B0CFD ru3229e8-6598-4208-9804-a6e623c0qyte"
 			RuntimeDocumentID="00505601-2F73-A1E8-93A4-1C6AE69F40D4">
 			<DocumentID>00505601-2F73-A1E8-93A4-1C6AE69F00D4</DocumentID>
 			<Name>AirportUpgradesLayout</Name>
@@ -2020,6 +2100,8 @@ New Booking</DeveloperText>
 			<Notes/>
 			<ActivityColor>#bcd6f1</ActivityColor>
 			<ApplicationIcon></ApplicationIcon>
+			<ApplicationName></ApplicationName>
+			<ApplicationNameSelection>static</ApplicationNameSelection>
 			<AssigneeAddlproperties></AssigneeAddlproperties>
 			<AssigneeTargetType>user</AssigneeTargetType>
 			<AssigneeTargetValue></AssigneeTargetValue>
@@ -2067,6 +2149,8 @@ New Booking</DeveloperText>
 			<EmailTo></EmailTo>
 			<EnableEscalation>false</EnableEscalation>
 			<EnableReminder></EnableReminder>
+			<EnableRpa>false</EnableRpa>
+			<EnableRpaProcess>false</EnableRpaProcess>
 			<EscalateNotifyEnabled>false</EscalateNotifyEnabled>
 			<EscalateReassignEnabled>false</EscalateReassignEnabled>
 			<EscalateReassignTarget></EscalateReassignTarget>
@@ -2120,6 +2204,18 @@ New Booking</DeveloperText>
 			<ReminderMinutesDuration>0</ReminderMinutesDuration>
 			<ReminderSubject></ReminderSubject>
 			<RetrieveData></RetrieveData>
+			<RpaProcessInputMessage></RpaProcessInputMessage>
+			<RpaProcessInputSelection>static</RpaProcessInputSelection>
+			<RpaProcessName></RpaProcessName>
+			<RpaProcessNameSelection>readFromApplication</RpaProcessNameSelection>
+			<RpaQueueInputMessage></RpaQueueInputMessage>
+			<RpaQueueInputSelection>static</RpaQueueInputSelection>
+			<RpaQueueName></RpaQueueName>
+			<RpaQueueNameSelection>readFromApplication</RpaQueueNameSelection>
+			<RpaRoboName></RpaRoboName>
+			<RpaRoboSelection>static</RpaRoboSelection>
+			<RpaRoboStrategy>triggerWithAnyRobo</RpaRoboStrategy>
+			<RpaType>uipath</RpaType>
 			<SendEmail>false</SendEmail>
 			<SendReminderDynamic>staticRealDuration</SendReminderDynamic>
 			<SenderDisplayName></SenderDisplayName>
@@ -2306,6 +2402,8 @@ New Booking</DeveloperText>
 			<CreationDate>2018-05-03T06:50:08.12</CreationDate>
 			<Notes/>
 			<ActivityColor>#bcd6f1</ActivityColor>
+			<ApplicationName></ApplicationName>
+			<ApplicationNameSelection>static</ApplicationNameSelection>
 			<ClassicDebugCondition>false</ClassicDebugCondition>
 			<ClassicExecuteCondition>false</ClassicExecuteCondition>
 			<CrashRecoveryCustomized>false</CrashRecoveryCustomized>
@@ -2318,6 +2416,8 @@ New Booking</DeveloperText>
 			<DynamicExecuteCondition>_none</DynamicExecuteCondition>
 			<DynamicRetryCount>none</DynamicRetryCount>
 			<DynamicRetryInterval>staticValue</DynamicRetryInterval>
+			<EnableRpa>false</EnableRpa>
+			<EnableRpaProcess>false</EnableRpaProcess>
 			<ExecuteCondition></ExecuteCondition>
 			<ExecutionOrganization></ExecutionOrganization>
 			<ExecutionUserType>currentOwner</ExecutionUserType>
@@ -2340,6 +2440,18 @@ New Booking</DeveloperText>
 			<RetryIntervalFromMessage></RetryIntervalFromMessage>
 			<RetryMinutes></RetryMinutes>
 			<RetrySeconds></RetrySeconds>
+			<RpaProcessInputMessage></RpaProcessInputMessage>
+			<RpaProcessInputSelection>static</RpaProcessInputSelection>
+			<RpaProcessName></RpaProcessName>
+			<RpaProcessNameSelection>readFromApplication</RpaProcessNameSelection>
+			<RpaQueueInputMessage></RpaQueueInputMessage>
+			<RpaQueueInputSelection>static</RpaQueueInputSelection>
+			<RpaQueueName></RpaQueueName>
+			<RpaQueueNameSelection>readFromApplication</RpaQueueNameSelection>
+			<RpaRoboName></RpaRoboName>
+			<RpaRoboSelection>static</RpaRoboSelection>
+			<RpaRoboStrategy>triggerWithAnyRobo</RpaRoboStrategy>
+			<RpaType>uipath</RpaType>
 			<SoapProcessor></SoapProcessor>
 			<SoapRequestTimeOut></SoapRequestTimeOut>
 			<SoapRequestTimeOutDynamic>staticValue</SoapRequestTimeOutDynamic>
@@ -2602,6 +2714,8 @@ New Booking</DeveloperText>
 			<CreationDate>2018-05-03T07:04:58.725</CreationDate>
 			<Notes/>
 			<ActivityColor>#bcd6f1</ActivityColor>
+			<ApplicationName></ApplicationName>
+			<ApplicationNameSelection>static</ApplicationNameSelection>
 			<ClassicDebugCondition>false</ClassicDebugCondition>
 			<ClassicExecuteCondition>false</ClassicExecuteCondition>
 			<CrashRecoveryCustomized>false</CrashRecoveryCustomized>
@@ -2614,6 +2728,8 @@ New Booking</DeveloperText>
 			<DynamicExecuteCondition>_none</DynamicExecuteCondition>
 			<DynamicRetryCount>none</DynamicRetryCount>
 			<DynamicRetryInterval>staticValue</DynamicRetryInterval>
+			<EnableRpa>false</EnableRpa>
+			<EnableRpaProcess>false</EnableRpaProcess>
 			<ExecuteCondition></ExecuteCondition>
 			<ExecutionOrganization></ExecutionOrganization>
 			<ExecutionUserType>currentOwner</ExecutionUserType>
@@ -2636,6 +2752,18 @@ New Booking</DeveloperText>
 			<RetryIntervalFromMessage></RetryIntervalFromMessage>
 			<RetryMinutes></RetryMinutes>
 			<RetrySeconds></RetrySeconds>
+			<RpaProcessInputMessage></RpaProcessInputMessage>
+			<RpaProcessInputSelection>static</RpaProcessInputSelection>
+			<RpaProcessName></RpaProcessName>
+			<RpaProcessNameSelection>readFromApplication</RpaProcessNameSelection>
+			<RpaQueueInputMessage></RpaQueueInputMessage>
+			<RpaQueueInputSelection>static</RpaQueueInputSelection>
+			<RpaQueueName></RpaQueueName>
+			<RpaQueueNameSelection>readFromApplication</RpaQueueNameSelection>
+			<RpaRoboName></RpaRoboName>
+			<RpaRoboSelection>static</RpaRoboSelection>
+			<RpaRoboStrategy>triggerWithAnyRobo</RpaRoboStrategy>
+			<RpaType>uipath</RpaType>
 			<SoapProcessor></SoapProcessor>
 			<SoapRequestTimeOut></SoapRequestTimeOut>
 			<SoapRequestTimeOutDynamic>staticValue</SoapRequestTimeOutDynamic>

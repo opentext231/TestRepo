@@ -771,8 +771,7 @@
 													<Notes/>
 													<DeveloperText>1</DeveloperText>
 													<Identifier>
-														<uri
-															id="C4D98767-E607-A1E7-9088-B97B716DF57B"
+														<uri	id="C4D98767-E607-A1E7-9088-B97B716DF57B"
 														/>
 													</Identifier>
 												</TranslatableText>
@@ -810,8 +809,7 @@
 													<Notes/>
 													<DeveloperText>2</DeveloperText>
 													<Identifier>
-														<uri
-															id="C4D98767-E607-A1E7-9088-B97B716C757B"
+														<uri	id="C4D98767-E607-A1E7-9088-B97B716C757B"
 														/>
 													</Identifier>
 												</TranslatableText>
@@ -849,8 +847,7 @@
 													<Notes/>
 													<DeveloperText>3</DeveloperText>
 													<Identifier>
-														<uri
-															id="C4D98767-E607-A1E7-9088-B97B716A757B"
+														<uri	id="C4D98767-E607-A1E7-9088-B97B716A757B"
 														/>
 													</Identifier>
 												</TranslatableText>
@@ -888,8 +885,7 @@
 													<Notes/>
 													<DeveloperText>4</DeveloperText>
 													<Identifier>
-														<uri
-															id="C4D98767-E607-A1E7-9088-B97B7168757B"
+														<uri	id="C4D98767-E607-A1E7-9088-B97B7168757B"
 														/>
 													</Identifier>
 												</TranslatableText>
@@ -927,8 +923,7 @@
 													<Notes/>
 													<DeveloperText>5</DeveloperText>
 													<Identifier>
-														<uri
-															id="C4D98767-E607-A1E7-9088-B97B7166757B"
+														<uri	id="C4D98767-E607-A1E7-9088-B97B7166757B"
 														/>
 													</Identifier>
 												</TranslatableText>
@@ -966,8 +961,7 @@
 													<Notes/>
 													<DeveloperText>6</DeveloperText>
 													<Identifier>
-														<uri
-															id="C4D98767-E607-A1E7-9088-B97B7164757B"
+														<uri	id="C4D98767-E607-A1E7-9088-B97B7164757B"
 														/>
 													</Identifier>
 												</TranslatableText>
@@ -1377,8 +1371,7 @@
 													<Notes/>
 													<DeveloperText>0</DeveloperText>
 													<Identifier>
-														<uri
-															id="C4D98767-E607-A1E7-9088-C7544152757B"
+														<uri	id="C4D98767-E607-A1E7-9088-C7544152757B"
 														/>
 													</Identifier>
 												</TranslatableText>
@@ -1416,8 +1409,7 @@
 													<Notes/>
 													<DeveloperText>1</DeveloperText>
 													<Identifier>
-														<uri
-															id="C4D98767-E607-A1E7-9088-B97B716DF57B"
+														<uri	id="C4D98767-E607-A1E7-9088-B97B716DF57B"
 														/>
 													</Identifier>
 												</TranslatableText>
@@ -1455,8 +1447,7 @@
 													<Notes/>
 													<DeveloperText>2</DeveloperText>
 													<Identifier>
-														<uri
-															id="C4D98767-E607-A1E7-9088-B97B716C757B"
+														<uri	id="C4D98767-E607-A1E7-9088-B97B716C757B"
 														/>
 													</Identifier>
 												</TranslatableText>
@@ -1494,8 +1485,7 @@
 													<Notes/>
 													<DeveloperText>3</DeveloperText>
 													<Identifier>
-														<uri
-															id="C4D98767-E607-A1E7-9088-B97B716A757B"
+														<uri	id="C4D98767-E607-A1E7-9088-B97B716A757B"
 														/>
 													</Identifier>
 												</TranslatableText>
@@ -1533,8 +1523,7 @@
 													<Notes/>
 													<DeveloperText>4</DeveloperText>
 													<Identifier>
-														<uri
-															id="C4D98767-E607-A1E7-9088-B97B7168757B"
+														<uri	id="C4D98767-E607-A1E7-9088-B97B7168757B"
 														/>
 													</Identifier>
 												</TranslatableText>
@@ -1670,8 +1659,7 @@
 													<Notes/>
 													<DeveloperText>0</DeveloperText>
 													<Identifier>
-														<uri
-															id="C4D98767-E607-A1E7-9088-C7544152757B"
+														<uri	id="C4D98767-E607-A1E7-9088-C7544152757B"
 														/>
 													</Identifier>
 												</TranslatableText>
@@ -1709,8 +1697,7 @@
 													<Notes/>
 													<DeveloperText>1</DeveloperText>
 													<Identifier>
-														<uri
-															id="C4D98767-E607-A1E7-9088-B97B716DF57B"
+														<uri	id="C4D98767-E607-A1E7-9088-B97B716DF57B"
 														/>
 													</Identifier>
 												</TranslatableText>
@@ -1748,8 +1735,7 @@
 													<Notes/>
 													<DeveloperText>2</DeveloperText>
 													<Identifier>
-														<uri
-															id="C4D98767-E607-A1E7-9088-B97B716C757B"
+														<uri	id="C4D98767-E607-A1E7-9088-B97B716C757B"
 														/>
 													</Identifier>
 												</TranslatableText>
@@ -2250,8 +2236,7 @@
 													<Notes/>
 													<DeveloperText>First</DeveloperText>
 													<Identifier>
-														<uri
-															id="C4D98767-E607-A1E7-9337-17DEC6573EDD"
+														<uri	id="C4D98767-E607-A1E7-9337-17DEC6573EDD"
 														/>
 													</Identifier>
 												</TranslatableText>
@@ -2289,8 +2274,7 @@
 													<Notes/>
 													<DeveloperText>Business</DeveloperText>
 													<Identifier>
-														<uri
-															id="C4D98767-E607-A1E7-9337-17DEC655BEDD"
+														<uri	id="C4D98767-E607-A1E7-9337-17DEC655BEDD"
 														/>
 													</Identifier>
 												</TranslatableText>
@@ -2328,8 +2312,7 @@
 													<Notes/>
 													<DeveloperText>Economy</DeveloperText>
 													<Identifier>
-														<uri
-															id="C4D98767-E607-A1E7-9337-17DEC6523EDD"
+														<uri	id="C4D98767-E607-A1E7-9337-17DEC6523EDD"
 														/>
 													</Identifier>
 												</TranslatableText>
@@ -2615,8 +2598,7 @@
 													<Notes/>
 													<DeveloperText>Journey Details</DeveloperText>
 													<Identifier>
-														<uri
-															id="C4D98767-E60B-A1E7-92E0-6AFDBD8D54C3"
+														<uri	id="C4D98767-E60B-A1E7-92E0-6AFDBD8D54C3"
 														/>
 													</Identifier>
 												</TranslatableText>
@@ -2654,8 +2636,7 @@
 													<Notes/>
 													<DeveloperText>AirCraft Details</DeveloperText>
 													<Identifier>
-														<uri
-															id="00505601-1609-A1E7-900E-5E6022DDC0CF"
+														<uri	id="00505601-1609-A1E7-900E-5E6022DDC0CF"
 														/>
 													</Identifier>
 												</TranslatableText>
@@ -2693,8 +2674,7 @@
 													<Notes/>
 													<DeveloperText>Price Details</DeveloperText>
 													<Identifier>
-														<uri
-															id="00505601-1609-A1E7-904B-E6549BA0C0D0"
+														<uri	id="00505601-1609-A1E7-904B-E6549BA0C0D0"
 														/>
 													</Identifier>
 												</TranslatableText>
@@ -2732,8 +2712,7 @@
 													<Notes/>
 													<DeveloperText>Passenger Details</DeveloperText>
 													<Identifier>
-														<uri
-															id="00505601-1DB4-A1E7-AB9F-9C4872BDC0D7"
+														<uri	id="00505601-1DB4-A1E7-AB9F-9C4872BDC0D7"
 														/>
 													</Identifier>
 												</TranslatableText>
@@ -2771,8 +2750,7 @@
 													<Notes/>
 													<DeveloperText>Baggage Details</DeveloperText>
 													<Identifier>
-														<uri
-															id="00505601-1DB4-A1E7-AB9F-9C4872BBC0D7"
+														<uri	id="00505601-1DB4-A1E7-AB9F-9C4872BBC0D7"
 														/>
 													</Identifier>
 												</TranslatableText>
@@ -2810,8 +2788,7 @@
 													<Notes/>
 													<DeveloperText>Payment Details</DeveloperText>
 													<Identifier>
-														<uri
-															id="00505601-1DB4-A1E7-AB9F-9C4872B9C0D7"
+														<uri	id="00505601-1DB4-A1E7-AB9F-9C4872B9C0D7"
 														/>
 													</Identifier>
 												</TranslatableText>
@@ -2849,8 +2826,7 @@
 													<Notes/>
 													<DeveloperText>Ticket Itinerary</DeveloperText>
 													<Identifier>
-														<uri
-															id="00505601-1DB4-A1E7-AB9F-9C4872B6C0D7"
+														<uri	id="00505601-1DB4-A1E7-AB9F-9C4872B6C0D7"
 														/>
 													</Identifier>
 												</TranslatableText>
@@ -3227,8 +3203,7 @@
 													<Notes/>
 													<DeveloperText>Africa</DeveloperText>
 													<Identifier>
-														<uri
-															id="00505601-2F73-A1E8-9374-8A791B8E40D4"
+														<uri	id="00505601-2F73-A1E8-9374-8A791B8E40D4"
 														/>
 													</Identifier>
 												</TranslatableText>
@@ -3272,8 +3247,7 @@
 													<Notes/>
 													<DeveloperText>Asia</DeveloperText>
 													<Identifier>
-														<uri
-															id="00505601-2F73-A1E8-9379-4394AA3680D4"
+														<uri	id="00505601-2F73-A1E8-9379-4394AA3680D4"
 														/>
 													</Identifier>
 												</TranslatableText>
@@ -3317,8 +3291,7 @@
 													<Notes/>
 													<DeveloperText>Australia</DeveloperText>
 													<Identifier>
-														<uri
-															id="00505601-2F73-A1E8-9379-4394AA2E80D4"
+														<uri	id="00505601-2F73-A1E8-9379-4394AA2E80D4"
 														/>
 													</Identifier>
 												</TranslatableText>
@@ -3362,8 +3335,7 @@
 													<Notes/>
 													<DeveloperText>North America</DeveloperText>
 													<Identifier>
-														<uri
-															id="00505601-23f2-a1e7-b796-af849215a74a"
+														<uri	id="00505601-23f2-a1e7-b796-af849215a74a"
 														/>
 													</Identifier>
 												</TranslatableText>
@@ -3407,8 +3379,7 @@
 													<Notes/>
 													<DeveloperText>Europe</DeveloperText>
 													<Identifier>
-														<uri
-															id="00505601-2F73-A1E8-9379-4394AA3280D4"
+														<uri	id="00505601-2F73-A1E8-9379-4394AA3280D4"
 														/>
 													</Identifier>
 												</TranslatableText>
@@ -3452,8 +3423,7 @@
 													<Notes/>
 													<DeveloperText>South America</DeveloperText>
 													<Identifier>
-														<uri
-															id="00505601-2F73-A1E8-9379-4394AA2A80D4"
+														<uri	id="00505601-2F73-A1E8-9379-4394AA2A80D4"
 														/>
 													</Identifier>
 												</TranslatableText>
@@ -4399,7 +4369,7 @@
 			<Email>
 				<Email
 					type="com.cordys.entity.buildingblocks.email.Email"
-					typeVersion="EA009434-A340-4D6E-AF58-3FDA-03E0EDA0"
+					typeVersion="B59CF123-2383-49B2-8C3E-D8F323D8F3F8"
 					RuntimeDocumentID="00505601-23f2-a1e7-b78b-970ea0c6274a">
 					<DocumentID>00505601-23f2-a1e7-b78b-970ea0b4a74a</DocumentID>
 					<Name>Email</Name>
