@@ -602,7 +602,7 @@
 		</IdentityBuildingBlock>
 		<InboxTaskBuildingBlock
 			type="com.cordys.entity.buildingblocks.inboxtask.InboxTaskBuildingBlock"
-			typeVersion="D646C9D1-F5CF-4407-BF9E-7F42B1C9158F"
+			typeVersion="33186206-7B8F-4F57-A470-70D2CE850F9A"
 			RuntimeDocumentID="90B11C8A-3947-11E5-F7F0-5406E6CE7FCB">
 			<DocumentID>00505601-144E-A1E8-85E4-5B3D1A4E40CD</DocumentID>
 			<Name>Task</Name>
@@ -1052,8 +1052,7 @@
 													<Notes/>
 													<DeveloperText>Null</DeveloperText>
 													<Identifier>
-														<uri
-															id="00505601-1DB4-A1E7-ABD8-90905C0040D8"
+														<uri	id="00505601-1DB4-A1E7-ABD8-90905C0040D8"
 														/>
 													</Identifier>
 												</TranslatableText>
@@ -1091,8 +1090,7 @@
 													<Notes/>
 													<DeveloperText>User</DeveloperText>
 													<Identifier>
-														<uri
-															id="00505601-1DB4-A1E7-ABD8-90905BFE40D8"
+														<uri	id="00505601-1DB4-A1E7-ABD8-90905BFE40D8"
 														/>
 													</Identifier>
 												</TranslatableText>
@@ -1130,8 +1128,7 @@
 													<Notes/>
 													<DeveloperText>Role</DeveloperText>
 													<Identifier>
-														<uri
-															id="00505601-1DB4-A1E7-ABD8-90905BFC40D8"
+														<uri	id="00505601-1DB4-A1E7-ABD8-90905BFC40D8"
 														/>
 													</Identifier>
 												</TranslatableText>
@@ -1169,8 +1166,7 @@
 													<Notes/>
 													<DeveloperText>Team</DeveloperText>
 													<Identifier>
-														<uri
-															id="00505601-1DB4-A1E7-ABD8-90905BFA40D8"
+														<uri	id="00505601-1DB4-A1E7-ABD8-90905BFA40D8"
 														/>
 													</Identifier>
 												</TranslatableText>
@@ -1208,8 +1204,7 @@
 													<Notes/>
 													<DeveloperText>Worklist</DeveloperText>
 													<Identifier>
-														<uri
-															id="00505601-1DB4-A1E7-ABD8-90905BF840D8"
+														<uri	id="00505601-1DB4-A1E7-ABD8-90905BF840D8"
 														/>
 													</Identifier>
 												</TranslatableText>
@@ -2032,8 +2027,7 @@
 													<Notes/>
 													<DeveloperText>Null</DeveloperText>
 													<Identifier>
-														<uri
-															id="00505601-1DB4-A1E7-ABD8-90905C0040D8"
+														<uri	id="00505601-1DB4-A1E7-ABD8-90905C0040D8"
 														/>
 													</Identifier>
 												</TranslatableText>
@@ -2071,8 +2065,7 @@
 													<Notes/>
 													<DeveloperText>Created</DeveloperText>
 													<Identifier>
-														<uri
-															id="00505601-1DB4-A1E7-ABD8-90905C2B00D8"
+														<uri	id="00505601-1DB4-A1E7-ABD8-90905C2B00D8"
 														/>
 													</Identifier>
 												</TranslatableText>
@@ -2110,8 +2103,7 @@
 													<Notes/>
 													<DeveloperText>Assigned</DeveloperText>
 													<Identifier>
-														<uri
-															id="00505601-1DB4-A1E7-ABD8-90905C2900D8"
+														<uri	id="00505601-1DB4-A1E7-ABD8-90905C2900D8"
 														/>
 													</Identifier>
 												</TranslatableText>
@@ -2149,8 +2141,7 @@
 													<Notes/>
 													<DeveloperText>InProgress</DeveloperText>
 													<Identifier>
-														<uri
-															id="00505601-1DB4-A1E7-ABD8-90905C2700D8"
+														<uri	id="00505601-1DB4-A1E7-ABD8-90905C2700D8"
 														/>
 													</Identifier>
 												</TranslatableText>
@@ -2188,8 +2179,7 @@
 													<Notes/>
 													<DeveloperText>Suspended</DeveloperText>
 													<Identifier>
-														<uri
-															id="00505601-1DB4-A1E7-ABD8-90905C6640D8"
+														<uri	id="00505601-1DB4-A1E7-ABD8-90905C6640D8"
 														/>
 													</Identifier>
 												</TranslatableText>
@@ -2227,8 +2217,7 @@
 													<Notes/>
 													<DeveloperText>Completed</DeveloperText>
 													<Identifier>
-														<uri
-															id="00505601-1DB4-A1E7-ABD8-90905C6440D8"
+														<uri	id="00505601-1DB4-A1E7-ABD8-90905C6440D8"
 														/>
 													</Identifier>
 												</TranslatableText>
@@ -2266,8 +2255,7 @@
 													<Notes/>
 													<DeveloperText>Failed</DeveloperText>
 													<Identifier>
-														<uri
-															id="00505601-1DB4-A1E7-ABD8-90905C6240D8"
+														<uri	id="00505601-1DB4-A1E7-ABD8-90905C6240D8"
 														/>
 													</Identifier>
 												</TranslatableText>
@@ -2305,8 +2293,7 @@
 													<Notes/>
 													<DeveloperText>Paused</DeveloperText>
 													<Identifier>
-														<uri
-															id="00505601-1DB4-A1E7-ABD8-90905C6040D8"
+														<uri	id="00505601-1DB4-A1E7-ABD8-90905C6040D8"
 														/>
 													</Identifier>
 												</TranslatableText>
@@ -2344,8 +2331,7 @@
 													<Notes/>
 													<DeveloperText>Obsolete</DeveloperText>
 													<Identifier>
-														<uri
-															id="00505601-1DB4-A1E7-ABD8-90905C5E40D8"
+														<uri	id="00505601-1DB4-A1E7-ABD8-90905C5E40D8"
 														/>
 													</Identifier>
 												</TranslatableText>
@@ -2383,8 +2369,7 @@
 													<Notes/>
 													<DeveloperText>Error</DeveloperText>
 													<Identifier>
-														<uri
-															id="00505601-1DB4-A1E7-ABD8-90905C5C40D8"
+														<uri	id="00505601-1DB4-A1E7-ABD8-90905C5C40D8"
 														/>
 													</Identifier>
 												</TranslatableText>
@@ -2422,8 +2407,7 @@
 													<Notes/>
 													<DeveloperText>Internal_Pause</DeveloperText>
 													<Identifier>
-														<uri
-															id="00505601-1DB4-A1E7-ABD8-90905C5A40D8"
+														<uri	id="00505601-1DB4-A1E7-ABD8-90905C5A40D8"
 														/>
 													</Identifier>
 												</TranslatableText>
@@ -4363,7 +4347,7 @@
 					<DataType>Text</DataType>
 					<ExposeForReuse>false</ExposeForReuse>
 					<Expression></Expression>
-					<IsComputedProperty>true</IsComputedProperty>
+					<IsComputedProperty>false</IsComputedProperty>
 					<IsReadOnly>false</IsReadOnly>
 					<IsRequired>false</IsRequired>
 					<IsValueUnique>false</IsValueUnique>
@@ -4432,7 +4416,7 @@
 					<DataType>Text</DataType>
 					<ExposeForReuse>false</ExposeForReuse>
 					<Expression></Expression>
-					<IsComputedProperty>true</IsComputedProperty>
+					<IsComputedProperty>false</IsComputedProperty>
 					<IsReadOnly>false</IsReadOnly>
 					<IsRequired>false</IsRequired>
 					<IsValueUnique>false</IsValueUnique>
@@ -4501,7 +4485,7 @@
 					<DataType>Text</DataType>
 					<ExposeForReuse>false</ExposeForReuse>
 					<Expression></Expression>
-					<IsComputedProperty>true</IsComputedProperty>
+					<IsComputedProperty>false</IsComputedProperty>
 					<IsReadOnly>false</IsReadOnly>
 					<IsRequired>false</IsRequired>
 					<IsValueUnique>false</IsValueUnique>
@@ -4570,7 +4554,7 @@
 					<DataType>Text</DataType>
 					<ExposeForReuse>false</ExposeForReuse>
 					<Expression></Expression>
-					<IsComputedProperty>true</IsComputedProperty>
+					<IsComputedProperty>false</IsComputedProperty>
 					<IsReadOnly>false</IsReadOnly>
 					<IsRequired>false</IsRequired>
 					<IsValueUnique>false</IsValueUnique>
