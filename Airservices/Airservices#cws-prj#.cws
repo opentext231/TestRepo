@@ -44,9 +44,9 @@
 			<CreatedBy>svtuser</CreatedBy>
 			<CreationDate>2017-04-12T09:12:06.491</CreationDate>
 			<Notes/>
-			<BuildNumber>8</BuildNumber>
+			<BuildNumber>1</BuildNumber>
 			<GenerateModelPackage>true</GenerateModelPackage>
-			<ISVPackageFileName>OpenText AirServices 22.4.8</ISVPackageFileName>
+			<ISVPackageFileName>OpenText AirServices 24.2.1</ISVPackageFileName>
 			<ISVPackageOwner>OpenText</ISVPackageOwner>
 			<PackageForRuntime>true</PackageForRuntime>
 			<PostISVLoaderInformation/>
@@ -57,7 +57,7 @@
 				<cws:item>ORGANIZATION</cws:item>
 				<cws:item>SHARED</cws:item>
 			</SupportedDeploymentSpaces>
-			<Version>22.4</Version>
+			<Version>24.2</Version>
 			<LicenseAgreement/>
 			<ThirdPartyAgreement/>
 		</ISVPackageInfo>
