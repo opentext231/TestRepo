@@ -532,6 +532,7 @@
 							<DefaultValue></DefaultValue>
 							<Length>256</Length>
 							<Pattern></Pattern>
+							<Searchable>false</Searchable>
 							<lowerBound>1</lowerBound>
 							<upperBound>1</upperBound>
 							<Type/>
@@ -631,6 +632,7 @@
 							<DefaultValue></DefaultValue>
 							<Length>64</Length>
 							<Pattern></Pattern>
+							<Searchable>false</Searchable>
 							<lowerBound>1</lowerBound>
 							<upperBound>1</upperBound>
 							<Type/>
@@ -647,7 +649,7 @@
 		</MarkupFileBuildingBlock>
 		<TrackingBuildingBlock
 			type="com.cordys.entity.buildingblocks.tracking.TrackingBuildingBlock"
-			typeVersion="E71CDA2C-7846-4CDA-BCB3-A75D3AD4A9FE"
+			typeVersion="3879939F-3AE9-48DF-A070-A7056C85FB88"
 			RuntimeDocumentID="00505601-63A2-A1EA-94F5-79875796D103">
 			<DocumentID>4F7B0AE0-C525-357B-9C43-180EFE0329DE</DocumentID>
 			<Name>Tracking</Name>
@@ -662,6 +664,32 @@
 			</Entity>
 			<InlinedEntities/>
 			<Original/>
+			<OwnedActions>
+				<TrackingAction
+					type="com.cordys.entity.buildingblocks.tracking.TrackingAction"
+					RuntimeDocumentID="78AF08F2-EB6B-A1EF-90CA-BC7A72D85836">
+					<DocumentID>78AF08F2-EB6B-A1EF-90CA-BC7A72D81836</DocumentID>
+					<Name>MarkAsRead</Name>
+					<Description/>
+					<CreatedBy>sysadmin</CreatedBy>
+					<CreationDate>2024-07-16T04:22:25.503</CreationDate>
+					<Notes/>
+					<ActionDisplayName>MarkAsRead</ActionDisplayName>
+					<ActionId>F53249C9B9774D49A052D16FBB9D7624</ActionId>
+				</TrackingAction>
+				<TrackingAction
+					type="com.cordys.entity.buildingblocks.tracking.TrackingAction"
+					RuntimeDocumentID="78AF08F2-EB6B-A1EF-90CA-BE103435D836">
+					<DocumentID>78AF08F2-EB6B-A1EF-90CA-BE1034359836</DocumentID>
+					<Name>MarkAsUnread</Name>
+					<Description/>
+					<CreatedBy>sysadmin</CreatedBy>
+					<CreationDate>2024-07-16T04:22:24.632</CreationDate>
+					<Notes/>
+					<ActionDisplayName>MarkAsUnread</ActionDisplayName>
+					<ActionId>B3EC8D7188F94F4A90C73D7378BEF9A9</ActionId>
+				</TrackingAction>
+			</OwnedActions>
 			<Properties>
 				<Property
 					type="com.cordys.entity.core.structure.property.Property"

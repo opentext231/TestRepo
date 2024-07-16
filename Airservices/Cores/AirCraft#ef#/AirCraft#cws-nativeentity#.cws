@@ -603,8 +603,7 @@
 													<Notes/>
 													<DeveloperText>-Select AirCraftType-</DeveloperText>
 													<Identifier>
-														<uri
-															id="00505601-1609-A1E7-8803-C1A11DEBC0CF"
+														<uri	id="00505601-1609-A1E7-8803-C1A11DEBC0CF"
 														/>
 													</Identifier>
 												</TranslatableText>
@@ -642,8 +641,7 @@
 													<Notes/>
 													<DeveloperText>Airbus</DeveloperText>
 													<Identifier>
-														<uri
-															id="00505601-1609-A1E7-8803-C1A11DEA40CF"
+														<uri	id="00505601-1609-A1E7-8803-C1A11DEA40CF"
 														/>
 													</Identifier>
 												</TranslatableText>
@@ -681,8 +679,7 @@
 													<Notes/>
 													<DeveloperText>Boeing</DeveloperText>
 													<Identifier>
-														<uri
-															id="00505601-1609-A1E7-8803-C1A11DE440CF"
+														<uri	id="00505601-1609-A1E7-8803-C1A11DE440CF"
 														/>
 													</Identifier>
 												</TranslatableText>
@@ -720,8 +717,7 @@
 													<Notes/>
 													<DeveloperText>Bombardier</DeveloperText>
 													<Identifier>
-														<uri
-															id="00505601-1609-A1E7-8803-C1A11DE240CF"
+														<uri	id="00505601-1609-A1E7-8803-C1A11DE240CF"
 														/>
 													</Identifier>
 												</TranslatableText>
@@ -759,8 +755,7 @@
 													<Notes/>
 													<DeveloperText>Embraer</DeveloperText>
 													<Identifier>
-														<uri
-															id="00505601-1609-A1E7-8803-C1A11DE040CF"
+														<uri	id="00505601-1609-A1E7-8803-C1A11DE040CF"
 														/>
 													</Identifier>
 												</TranslatableText>
@@ -840,6 +835,7 @@
 							<DefaultValue></DefaultValue>
 							<Length>64</Length>
 							<Pattern></Pattern>
+							<Searchable>false</Searchable>
 							<lowerBound>1</lowerBound>
 							<upperBound>1</upperBound>
 							<Type>
@@ -1796,6 +1792,7 @@
 							<DefaultValue></DefaultValue>
 							<Length>256</Length>
 							<Pattern></Pattern>
+							<Searchable>false</Searchable>
 							<lowerBound>1</lowerBound>
 							<upperBound>1</upperBound>
 							<Type/>
@@ -1898,6 +1895,7 @@
 							<DefaultValue></DefaultValue>
 							<Length>512</Length>
 							<Pattern></Pattern>
+							<Searchable>false</Searchable>
 							<lowerBound>1</lowerBound>
 							<upperBound>1</upperBound>
 							<Type/>
@@ -1949,6 +1947,7 @@
 							<DefaultValue></DefaultValue>
 							<Length>512</Length>
 							<Pattern></Pattern>
+							<Searchable>false</Searchable>
 							<lowerBound>1</lowerBound>
 							<upperBound>1</upperBound>
 							<Type/>
@@ -2102,7 +2101,7 @@
 		</TaskListBuildingBlock>
 		<TrackingBuildingBlock
 			type="com.cordys.entity.buildingblocks.tracking.TrackingBuildingBlock"
-			typeVersion="E71CDA2C-7846-4CDA-BCB3-A75D3AD4A9FE"
+			typeVersion="3879939F-3AE9-48DF-A070-A7056C85FB88"
 			RuntimeDocumentID="74E543D7-FE3D-A1E8-88E9-19BDEEE67F83">
 			<DocumentID>74E543D7-FE3D-A1E8-88E9-19BDEEE63F83</DocumentID>
 			<Name>Tracking</Name>
@@ -2117,6 +2116,32 @@
 			</Entity>
 			<InlinedEntities/>
 			<Original/>
+			<OwnedActions>
+				<TrackingAction
+					type="com.cordys.entity.buildingblocks.tracking.TrackingAction"
+					RuntimeDocumentID="78AF08F2-EB6B-A1EF-90CA-BE103437D836">
+					<DocumentID>78AF08F2-EB6B-A1EF-90CA-BE1034379836</DocumentID>
+					<Name>MarkAsRead</Name>
+					<Description/>
+					<CreatedBy>sysadmin</CreatedBy>
+					<CreationDate>2024-07-16T04:22:23.628</CreationDate>
+					<Notes/>
+					<ActionDisplayName>MarkAsRead</ActionDisplayName>
+					<ActionId>F53249C9B9774D49A052D16FBB9D7624</ActionId>
+				</TrackingAction>
+				<TrackingAction
+					type="com.cordys.entity.buildingblocks.tracking.TrackingAction"
+					RuntimeDocumentID="78AF08F2-EB6B-A1EF-90CA-BE103439D836">
+					<DocumentID>78AF08F2-EB6B-A1EF-90CA-BE1034399836</DocumentID>
+					<Name>MarkAsUnread</Name>
+					<Description/>
+					<CreatedBy>sysadmin</CreatedBy>
+					<CreationDate>2024-07-16T04:22:14.183</CreationDate>
+					<Notes/>
+					<ActionDisplayName>MarkAsUnread</ActionDisplayName>
+					<ActionId>B3EC8D7188F94F4A90C73D7378BEF9A9</ActionId>
+				</TrackingAction>
+			</OwnedActions>
 			<Properties>
 				<Property
 					type="com.cordys.entity.core.structure.property.Property"
@@ -2506,6 +2531,7 @@
 							<DefaultValue></DefaultValue>
 							<Length>256</Length>
 							<Pattern></Pattern>
+							<Searchable>false</Searchable>
 							<lowerBound>1</lowerBound>
 							<upperBound>1</upperBound>
 							<Type/>
